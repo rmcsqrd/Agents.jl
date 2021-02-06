@@ -1,6 +1,6 @@
 # # Force Based Motion Planning
 # ![](circle_output.gif) 
-#
+
 # This is an example implementation of the [Force Based Motion Planning (FMP)](https://arxiv.org/pdf/1909.05415.pdf) algorithm. The algorithm is a decentralized motion
 # planning algorithm where individual agents experience attractive forces towards
 # a goal position and repulsive forces from other agents or objects in the environment. 
